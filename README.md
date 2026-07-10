@@ -4,6 +4,11 @@ A lightweight Windows automation tool for clicks, keyboard actions, and simple m
 
 WAuto Click helps automate repetitive mouse and keyboard tasks without unnecessary complexity. Create automation scripts, record macros, organize multiple workflows, and let your computer handle repetitive actions while you focus on more important work.
 
+### Workspace
+
+![Workspace](assets/screenshots/wauto_click_1.jpeg)
+
+
 ---
 
 ## Features
@@ -64,10 +69,6 @@ WAuto Click helps automate repetitive mouse and keyboard tasks without unnecessa
 ---
 
 ## Screenshots
-
-### Workspace
-
-![Workspace](assets/screenshots/wauto_click_1.jpeg)
 
 ### Settings
 
